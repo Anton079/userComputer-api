@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\UserComputer-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|solutionrelative:usercomputer-api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|solutionrelative:usercomputer-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\data\\migrations\\createschemausercomputertables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|solutionrelative:usercomputer-api\\data\\migrations\\createschemausercomputertables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|solutionrelative:usercomputer-api\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\users\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\computers\\dtos\\computerupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|solutionrelative:usercomputer-api\\computers\\dtos\\computerupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|solutionrelative:usercomputer-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80444CC3-93DE-4D5D-9B7B-BBDEA4DED711}|UserComputer-api\\UserComputer-api.csproj|c:\\mycode\\asp.net\\usercomputer-api\\usercomputer-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -125,51 +125,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 615,
-          "SelectedChildIndex": 11,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserNotFoundException.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
-              "RelativeDocumentMoniker": "UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
-              "RelativeToolTip": "UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:57:52.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommandServiceUser.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
-              "RelativeDocumentMoniker": "UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
-              "RelativeToolTip": "UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwGcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:41:20.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserMappingProfile.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
-              "RelativeDocumentMoniker": "UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
-              "RelativeToolTip": "UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:35:55.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IUserRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Repository\\IUserRepo.cs",
               "RelativeDocumentMoniker": "UserComputer-api\\Users\\Repository\\IUserRepo.cs",
@@ -177,12 +138,11 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Repository\\IUserRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:24:27.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T10:24:27.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Repository\\UserRepo.cs",
               "RelativeDocumentMoniker": "UserComputer-api\\Users\\Repository\\UserRepo.cs",
@@ -190,18 +150,17 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Repository\\UserRepo.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:24:34.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T10:24:34.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Program.cs",
               "RelativeDocumentMoniker": "UserComputer-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Program.cs",
               "RelativeToolTip": "UserComputer-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T10:06:35.965Z",
               "EditorCaption": ""
@@ -216,12 +175,11 @@
               "RelativeToolTip": "UserComputer-api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T10:06:42.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T10:06:42.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ICommandServiceUser.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Service\\ICommandServiceUser.cs",
               "RelativeDocumentMoniker": "UserComputer-api\\Users\\Service\\ICommandServiceUser.cs",
@@ -229,12 +187,11 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Service\\ICommandServiceUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:41:56.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:41:56.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ComputerUpdateRequest.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Computers\\Dtos\\ComputerUpdateRequest.cs",
               "RelativeDocumentMoniker": "UserComputer-api\\Computers\\Dtos\\ComputerUpdateRequest.cs",
@@ -242,12 +199,36 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Dtos\\ComputerUpdateRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:02:19.087Z",
+              "WhenOpened": "2025-05-24T03:02:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "UserComputer-api\\Users\\UserController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\UserController.cs",
+              "RelativeToolTip": "UserComputer-api\\Users\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:57:15.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "UserMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
+              "RelativeDocumentMoniker": "UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
+              "RelativeToolTip": "UserComputer-api\\Users\\Mappers\\UserMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:35:55.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Computer.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Computers\\Models\\Computer.cs",
               "RelativeDocumentMoniker": "UserComputer-api\\Computers\\Models\\Computer.cs",
@@ -255,8 +236,31 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Models\\Computer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T07:47:37.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T07:47:37.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandServiceUser.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
+              "RelativeDocumentMoniker": "UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
+              "RelativeToolTip": "UserComputer-api\\Users\\Service\\CommandServiceUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwGcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:41:20.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "UserComputer-api\\Users\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:57:52.728Z"
             },
             {
               "$type": "Document",
@@ -266,22 +270,9 @@
               "RelativeDocumentMoniker": "UserComputer-api\\Data\\Migrations\\CreateSchemaUserComputerTables.cs",
               "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Data\\Migrations\\CreateSchemaUserComputerTables.cs",
               "RelativeToolTip": "UserComputer-api\\Data\\Migrations\\CreateSchemaUserComputerTables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T07:55:03.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\UserController.cs",
-              "RelativeDocumentMoniker": "UserComputer-api\\Users\\UserController.cs",
-              "ToolTip": "C:\\mycode\\asp.net\\UserComputer-api\\UserComputer-api\\Users\\UserController.cs",
-              "RelativeToolTip": "UserComputer-api\\Users\\UserController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAQwFoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:57:15.808Z",
               "EditorCaption": ""
             },
             {
@@ -294,8 +285,7 @@
               "RelativeToolTip": "UserComputer-api\\System\\ExceptionMessages.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:50:30.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:50:30.529Z"
             },
             {
               "$type": "Document",
@@ -307,8 +297,7 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Exceptions\\ComputerNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:57:04.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:57:04.73Z"
             },
             {
               "$type": "Document",
@@ -320,8 +309,7 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Exceptions\\ComputerAlreadyExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:56:00.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:56:00.508Z"
             },
             {
               "$type": "Document",
@@ -333,8 +321,7 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Exceptions\\UserAlreadyExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:50:03.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:50:03.835Z"
             },
             {
               "$type": "Document",
@@ -346,8 +333,7 @@
               "RelativeToolTip": "UserComputer-api\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T08:10:44.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T08:10:44.869Z"
             },
             {
               "$type": "Document",
@@ -359,8 +345,7 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Mappers\\ComputerMappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:04:23.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:04:23.24Z"
             },
             {
               "$type": "Document",
@@ -372,8 +357,7 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Service\\IQueryServiceUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:42:05.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:42:05.403Z"
             },
             {
               "$type": "Document",
@@ -385,8 +369,7 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Service\\QueryServiceUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T15:42:07.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T15:42:07.957Z"
             },
             {
               "$type": "Document",
@@ -398,8 +381,7 @@
               "RelativeToolTip": "UserComputer-api\\Users\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T07:44:45.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T07:44:45.206Z"
             },
             {
               "$type": "Document",
@@ -411,8 +393,7 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Dtos\\GetAllComputerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:02:33.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:02:33.87Z"
             },
             {
               "$type": "Document",
@@ -424,8 +405,7 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Dtos\\ComputerRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T03:02:00.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T03:02:00.798Z"
             },
             {
               "$type": "Document",
@@ -449,8 +429,7 @@
               "RelativeToolTip": "UserComputer-api\\Computers\\Dtos\\ComputerResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T08:16:40.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T08:16:40.961Z"
             },
             {
               "$type": "Document",

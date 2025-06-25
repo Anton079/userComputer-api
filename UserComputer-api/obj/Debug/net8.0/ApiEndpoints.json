@@ -1,6 +1,37 @@
 [
   {
     "ContainingType": "UserComputer_api.Users.UserController",
+    "Method": "AddComputerAsync",
+    "RelativePath": "api/User/addComputer/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "computerRequest",
+        "Type": "UserComputer_api.Computers.Dtos.ComputerRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserComputer_api.Computers.Dtos.ComputerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserComputer_api.Users.UserController",
     "Method": "GetAllUsers",
     "RelativePath": "api/User/allUsers",
     "HttpMethod": "GET",
@@ -23,7 +54,48 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "UserComputer_api.Users.Dtos.UserResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserComputer_api.Users.UserController",
+    "Method": "DeleteComputerAsync",
+    "RelativePath": "api/User/deleteComputer/{userId}/{computerId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "computerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserComputer_api.Computers.Dtos.ComputerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "UserComputer_api.Users.UserController",
@@ -39,7 +111,53 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "UserComputer_api.Users.Dtos.UserResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserComputer_api.Users.UserController",
+    "Method": "UpdateComputerAsync",
+    "RelativePath": "api/User/updateComputer/{idUser}/{idComputer}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Iduser",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "idComputer",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "computerUpdate",
+        "Type": "UserComputer_api.Computers.Dtos.ComputerUpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UserComputer_api.Computers.Dtos.ComputerResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "UserComputer_api.Users.UserController",
@@ -60,6 +178,16 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "UserComputer_api.Users.Dtos.UserResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

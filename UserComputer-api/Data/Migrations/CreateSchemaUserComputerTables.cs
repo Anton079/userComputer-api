@@ -1,4 +1,5 @@
 ﻿using FluentMigrator;
+using System.Data;
 
 namespace UserComputer_api.Data.Migrations
 {
@@ -19,7 +20,7 @@ namespace UserComputer_api.Data.Migrations
                 .WithColumn("type").AsString().NotNullable()
                 .WithColumn("model").AsString().NotNullable()
                 .WithColumn("price").AsInt32().NotNullable()
-                .WithColumn("UserId").AsInt32().ForeignKey("users", "id").OnDelete(System.Data.Rule.Cascade);
+                .WithColumn("UserId").AsInt32().ForeignKey("users", "id").OnDelete(Rule.Cascade);
         }
 
         public override void Down()

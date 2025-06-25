@@ -97,3 +97,4 @@ C:\mycode\asp.net\UserComputer-api\UserComputer-api\obj\Debug\net8.0\refint\User
 C:\mycode\asp.net\UserComputer-api\UserComputer-api\obj\Debug\net8.0\UserComputer-api.pdb
 C:\mycode\asp.net\UserComputer-api\UserComputer-api\obj\Debug\net8.0\UserComputer-api.genruntimeconfig.cache
 C:\mycode\asp.net\UserComputer-api\UserComputer-api\obj\Debug\net8.0\ref\UserComputer-api.dll
+C:\mycode\asp.net\UserComputer-api\UserComputer-api\obj\Debug\net8.0\UserComputer-api.sourcelink.json

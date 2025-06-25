@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using UserComputer_api.Data;
 using UserComputer_api.Users.Repository;
+using UserComputer_api.Users.Service;
 
 public class Program
 {
@@ -28,6 +29,8 @@ public class Program
         new MySqlServerVersion(new Version(8, 0, 21))));
 
         builder.Services.AddScoped<IUserRepo, UserRepo>();
+        builder.Services.AddScoped<ICommandServiceUser, CommandServiceUser>();
+        builder.Services.AddScoped<IQueryServiceUser, QueryServiceUser>();
 
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()
